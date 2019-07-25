@@ -1,6 +1,6 @@
 language : generic
 
-script: echo hi
+script: echo hola
 
 env:
   global:
